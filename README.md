@@ -17,8 +17,8 @@ LeadDesk Mini is a production-quality, responsive Full Stack SaaS lead managemen
 
 ## 🔗 Live Demo
 
-*   **Frontend**: `[Insert Vercel Deployment Link Here]`
-*   **Backend**: `[Insert Render Deployment Link Here]`
+*   **Frontend**: https://lead-desk-mini-cqxv01og5-sonakshi-bargali.vercel.app
+*   **Backend**: https://leaddesk-mini-r88b.onrender.com
 
 ---
 
@@ -258,9 +258,9 @@ Configure your Web Service on Render with these properties:
 ---
 
 ## ✍️ Author
-*   **Your Name** — `[Your Name]`
-*   **GitHub**: `[Your GitHub Profile URL]`
-*   **LinkedIn**: `[Your LinkedIn Profile URL]`
+*   **Your Name** — Sonakshi Bargali
+*   **GitHub**: https://github.com/Sonakshibargali
+*   **LinkedIn**: https://www.linkedin.com/in/sonakshi-bargali-63a72a353
 =======
 # LeadDesk-Mini
 >>>>>>> edc8ebc7fc6ae0ed6b687312e2c5b838ddfe18c9
