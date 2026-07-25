@@ -1,0 +1,30 @@
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Lead {
+  id        String   @id @default(uuid())
+  name      String
+  email     String
+  budget    String
+  message   String   @db.Text
+  status    String   @default("NEW") // Status values: NEW, CONTACTED, CLOSED
+  createdAt DateTime @default(now())
+
+  @@map("leads")
+}
+
+model Admin {
+  id        String   @id @default(uuid())
+  email     String   @unique
+  password  String
+  createdAt DateTime @default(now())
+
+  @@map("admins")
+}
+
