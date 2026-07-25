@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ LeadDesk Mini
 
 <p align="center">
@@ -260,3 +261,6 @@ Configure your Web Service on Render with these properties:
 *   **Your Name** — `[Your Name]`
 *   **GitHub**: `[Your GitHub Profile URL]`
 *   **LinkedIn**: `[Your LinkedIn Profile URL]`
+=======
+# LeadDesk-Mini
+>>>>>>> edc8ebc7fc6ae0ed6b687312e2c5b838ddfe18c9
